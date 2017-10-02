@@ -1,36 +1,9 @@
-# Landing Page Jekyll theme
+# Website
 
-Jekyll theme based on [landing-page bootstrap theme ](http://startbootstrap.com/templates/landing-page/)
-
-## Prerequisites, TODO: Dockerize
- - Install `rbenv` and `ruby-build`
- - Install ruby version `rbenv install $(cat .ruby-version)`
- - Install bundler `gem install bundler`
- - Install gems `bundle install`
-
-## How to use
- - Place a image in `/img/services/`
- - Create posts to display your services. Use the follow as an example:
-
-```txt
----
-layout: default
-img: ipad.png
-category: Services
-title: The service title
-description: The description of the service
----
-```
-
-## Demo
-View this jekyll theme in action [here](https://swcool.github.io/landing-page-theme)
-
-## Screenshot
-![screenshot](https://raw.githubusercontent.com/swcool/landing-page-theme/master/img/screenshot.png)
+Theme based on [landing-page bootstrap theme ](http://startbootstrap.com/templates/landing-page/)
 
 ===
 
-For more Jekyll details, read [documentation](http://jekyllrb.com/).
 This Jekyll theme used [Freelancer Jekyll theme](https://github.com/jeromelachaud/freelancer-theme/) as reference.
 
 ## License
